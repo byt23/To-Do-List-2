@@ -20,6 +20,11 @@ Bu proje, **SwiftUI** ve Apple'ın modern veritabanı framework'ü **SwiftData**
   * **Veritabanı:** SwiftData
   * **Mimar:** MVVM (Model-View-ViewModel) mantığıyla kurgulanmış deklaratif yapı.
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-orange?style=flat&logo=icloud&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-17.0+-black?style=flat&logo=apple&logoColor=white)
+
 ## 📸 Ekran Görüntüleri
 
 <img width="417" height="841" alt="ana ekran" src="https://github.com/user-attachments/assets/78eb669e-e4af-42ef-9839-670e4442837b" />
